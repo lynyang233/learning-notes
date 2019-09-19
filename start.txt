@@ -1,0 +1,5 @@
+workplace index repository remote
+
+git add
+git commit
+git push
